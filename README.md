@@ -1,6 +1,8 @@
 # myfreeCodeCamp_tribute_page
-Tribute page for F1 driver Niki Lauda //
-Project for freeCodeCamp 'Responsive Web Design Certification' 
+Project for freeCodeCamp 'Responsive Web Design Certification'
+
+## Project Description
+Tribute page for F1 driver Niki Lauda
 
 ## Link to view the website
 https://flamingllama.github.io/myfreeCodeCamp_tribute_page/
